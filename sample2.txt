@@ -3,7 +3,7 @@ This is actually a text file, just keeping the content for easy understanding!ß
     <labels>
         <fullName>test</fullName>
         <language>en_US</language>
-        <shortDescription>BLACK</shortDescription>
+        <shortDescription>RED</shortDescription>
         <protected>true</protected>
         <value>abc</value>
     </labels>
